@@ -1,0 +1,12 @@
+{
+  "name": "zappy-custom-skill-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GameB-Ventures/zappy-custom-skill-template",
+  "author": "Abhimanyu <info@gigapromoters.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "zapdroid-sdk": "^1.0.3"
+  }
+}
