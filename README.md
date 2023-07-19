@@ -14,6 +14,7 @@ They cannot even generate a random number.
 
 ## Requirements
 You should already have Zapdroid installed on your slack workspace or any other supported platform.
+
 Make sure to have following environment variables:
 ```
 ZAPDROID_TEAM_ID=TXXXXX-YYYYYYYYYY
@@ -22,6 +23,9 @@ ZAPDROID_SECRET_KEY=ZZZZZZZZZ
 
 You can get these by asking Zapdroid on your slack. In a secure channel ask 'what are my SDK credentials?'
 
+Put these into .env file
+
+    mv .env.tmpl .env
 
 ## Usage
 Refer to index.js to see how to use createSkill() 
