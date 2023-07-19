@@ -55,6 +55,8 @@ Now you can test your skill by asking Zapdroid to generate a random number for y
 
 ![code](after.png "number generated")
 
+Please note: It will automatically match the skill to execute using natural language and also parse the arguments. Sometimes, it can make up arguments itself, so be warned to explicitly add a validation layer to avoid unexpected results.
+
 ## Getting Help
 
 If you encounter any problems or have questions, feel free to send an email to hi@zapdroid.io.
