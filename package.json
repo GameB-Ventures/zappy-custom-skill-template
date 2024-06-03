@@ -7,6 +7,6 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.3.1",
-    "zapdroid-sdk": "^1.0.3"
+    "zapdroid-sdk": "^1.0.5"
   }
 }
